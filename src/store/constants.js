@@ -12,3 +12,10 @@ export const FILTER_MOVIES_COUNTRY = 'filter_movies_country'
 //search 
 export const SEARCH_BAR_TRUE = 'search_bar_true'
 export const SEARCH_BAR_FALSE = 'search_bar_false'
+
+//logo movielore
+export const RESET_POST_LIST = 'reset_post_list'
+
+//add review
+export const ADD_NEW_REVIEW = 'add_new_review'
+
